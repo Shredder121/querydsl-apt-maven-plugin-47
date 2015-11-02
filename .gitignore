@@ -1,0 +1,11 @@
+.metadata
+target/
+log.roo
+.classpath
+.project
+.settings
+test-output
+*.log
+.floo
+rebel.xml
+.mvn
